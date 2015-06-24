@@ -1,6 +1,6 @@
 
 
-# Viewer.js demo with analytics plugin activated
+## Viewer.js demo with page timer analytics
 
 ### Description
 
@@ -44,4 +44,4 @@ That's it! You should be setup with development dependencies and ready to go.
 1. Click "examples"
 2. Click the "presentations" demo
 3. Right Click, "Inspect Element", access the browser Console
-4. Toggle between pages of the document to restart the timer 
+4. Toggle between pages of the document to restart the timer
